@@ -2,9 +2,16 @@
     "version": 0,
     "download-links": {
         "this": "https://raw.githubusercontent.com/gudorlltti/public/main/asset-downloader/data.json",
-        "assets": [
-            "https://raw.githubusercontent.com/gudorlltti/public/main/asset-downloader/assets/player.png",
-            "https://raw.githubusercontent.com/gudorlltti/public/main/asset-downloader/assets/toast.gif"
-        ]
+        "assets": {
+            "0": {
+                "link": "https://raw.githubusercontent.com/gudorlltti/public/main/asset-downloader/assets/player.png",
+                "assetid": "o1"
+            }, 
+            "1": {
+                "link": "https://raw.githubusercontent.com/gudorlltti/public/main/asset-downloader/assets/toast.gif",
+                "assetid": "o2"
+            }
+           
+        }
     }
 }
